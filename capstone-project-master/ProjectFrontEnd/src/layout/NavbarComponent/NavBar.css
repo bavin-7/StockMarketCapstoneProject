@@ -1,0 +1,60 @@
+/* Navbar custom styles */
+.logo-img {
+  height: 40px;
+  width: 40px;
+}
+
+.navbar-custom {
+  background-color: #652cb3;
+  padding: 10px 0;
+  margin-bottom: 20px;
+}
+
+.navbar-brand {
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.navbar-toggler-icon {
+  background-color: white;
+}
+
+.navbar-nav .nav-item {
+  margin-right: 40px;
+}
+
+.nav-link.btn-custom {
+  color: white !important; /* Important: Override Bootstrap styles */
+  background-color: transparent;
+  border: none;
+  padding: 8px 20px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.nav-link.btn-custom:hover {
+  background-color: #f7f7f7 !important; /* Important: Override Bootstrap styles */
+  color: #652cb3 !important; /* Important: Override Bootstrap styles */
+}
+
+.btn-primary {
+  background-color: white;
+  color: #652cb3;
+  font-weight: bold;
+  border: none;
+  padding: 8px 20px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.btn-primary:hover {
+  background-color: #652cb3;
+  color: white;
+}
+
+nav .navbar-collapse.active {
+  display: block;
+}
+
+nav .navbar-collapse {
+  transition: 0.6s all ease-in-out;
+}

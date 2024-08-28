@@ -1,0 +1,107 @@
+.Creditcards {
+  width: 94%;
+  padding: 0 10px 0;
+  border-radius: 1rem;
+  color: black;
+  height: 15rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 0 2rem 3 rem rgba(71, 7, 234, 0.2);
+  transition: all 300ms ease;
+}
+
+.Creditcards:hover {
+  box-shadow: none;
+}
+
+.Creditcards .top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Creditcards .top .left {
+  display: flex;
+  margin-top: 0.5rem;
+  gap: 0.5rem;
+}
+
+.Creditcards .top .left h2 {
+  font-weight: 200;
+  font-size: 1.4rem;
+}
+
+.Creditcards .top .left img {
+  width: 6rem;
+  height: 6rem;
+  /* border: 1px solid white;
+  border-radius: 6px; */
+  padding: 0.4rem;
+  margin-top: -20px;
+  margin-left: -10px;
+}
+
+.Creditcards .top .right {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.Creditcards .top .right img {
+  height: 1.75rem;
+  margin-bottom: 10px;
+}
+
+.Creditcards .middle {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Creditcards .middle h4 {
+  font-size: 1rem;
+}
+
+.Creditcards .middle.chip {
+  height: 2rem;
+}
+
+.Creditcards .bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.Creditcards .bottom .left {
+  display: flex;
+  flex-direction: column;
+}
+
+.Creditcards .bottom .left small {
+  font-size: 0.7rem;
+}
+
+.Creditcards .bottom .left h5 {
+  font-size: 1rem;
+}
+
+.Creditcards .bottom .right {
+  display: flex;
+  gap: 2rem;
+}
+
+.Creditcards .bottom .right .expiry,
+.Creditcards .bottom .right .cvv {
+  display: flex;
+  flex-direction: column;
+}
+
+.Creditcards .bottom .right small {
+  font-size: 0.7rem;
+}
+
+.Creditcards .bottom .right h5 {
+  font-size: 1rem;
+}

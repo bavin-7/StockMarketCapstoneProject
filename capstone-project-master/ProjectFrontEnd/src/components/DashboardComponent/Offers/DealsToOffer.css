@@ -1,0 +1,44 @@
+.mycontainer {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.DealsHeading {
+  margin: 1rem auto 4rem;
+}
+
+.product--image {
+  width: 100%;
+  height: 12em;
+  object-fit: cover;
+}
+
+.Dashboard {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto 1rem;
+  text-align: center;
+  font-family: arial;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.Dashboard button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.Dashboard button:hover {
+  opacity: 0.7;
+}

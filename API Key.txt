@@ -1,0 +1,10 @@
+API Key:  I8IJUGHXX9BFLKWI
+
+keystore/trustore pass : project13
+
+
+Warning: use -cacerts option to access cacerts keystore
+Keystore type: PKCS12
+Keystore provider: SUN
+
+Your keystore contains 107 entries

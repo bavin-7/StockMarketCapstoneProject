@@ -1,0 +1,32 @@
+[
+    {
+      "feature": "Credit Score-Dependent Credit Limit Increases",
+      "icon": "/icons/data-analytics.png",
+      "benefit": "Your responsible financial behavior is rewarded with automatic credit limit increases. Watch your purchasing power grow along with your credit score."
+    },
+    {
+      "feature": "Exclusive Access to Premium Services",
+      "icon": "/icons/exclusive.png",
+      "benefit": "Indulge in premium concierge services, travel benefits, and airport lounge access, designed exclusively for our high credit score customers."
+    },
+    {
+      "feature": "Flexible Payment Terms for Lower Credit Scores",
+      "icon": "/icons/flexibility.png",
+      "benefit": "We understand the journey to great credit is not always easy. Choose flexible payment terms that fit your budget, making credit management more manageable."
+    },
+    {
+      "feature": "Personalized Credit Limits",
+      "icon": "/icons/offer.png",
+      "benefit": "We tailor your credit limit to your needs, ensuring you have just the right amount of credit to match your lifestyle."
+    },
+    {
+      "feature": "Rewards Boost for Good Credit Behavior",
+      "icon": "/icons/reward.png",
+      "benefit": "As your credit score improves, so do your rewards. It is like getting a bonus for being financially responsible."
+    },
+    {
+      "feature": "Zero Annual Fee for High Credit Scores",
+      "icon": "/icons/rewards.png",
+      "benefit": "Enjoy the rewards of your excellent credit rating with an annual fee waiver. It is our way of saying thank you."
+    }
+]

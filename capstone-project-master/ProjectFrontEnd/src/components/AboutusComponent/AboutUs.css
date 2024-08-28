@@ -1,0 +1,50 @@
+/* AboutUs.css */
+.about-us-container {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .about-us-heading {
+    color: purple;
+    margin-bottom: 20px;
+  }
+  
+  .about-us-image {
+    width: 100%;
+    max-width: 600px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-text {
+    color: #333;
+    margin-bottom: 15px;
+    line-height: 1.5;
+  }
+  
+  .welcome-text {
+    color: #333;
+    margin-bottom: 15px;
+    line-height: 1.5;
+  }
+  /* AboutUs.css */
+.welcome-section {
+    display: flex;
+    align-items: center;
+  }
+  
+  .welcome-content {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  
+  /* You can add more styles based on your design preferences */
+  

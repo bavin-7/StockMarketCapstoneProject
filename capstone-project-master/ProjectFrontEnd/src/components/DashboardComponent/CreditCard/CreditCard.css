@@ -1,0 +1,71 @@
+.cards {
+  background: linear-gradient(#5d70ff, #5719c2);
+  padding: 0 10px 0;
+  border-radius: 1rem;
+  color: white;
+  height: 16rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 0 2rem 3 rem rgba(71, 7, 234, 0.2);
+  transition: all 300ms ease;
+}
+
+.cards:hover {
+  box-shadow: none;
+}
+
+.cards .top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cards .top .left {
+  display: flex;
+  margin-top: 0.5rem;
+  gap: 0.5rem;
+}
+
+.cards .top .left h2 {
+  font-weight: 200;
+  font-size: 1.4rem;
+}
+
+.cards .top .left img {
+  width: 2.3rem;
+  height: 2.3rem;
+  border: 1px solid white;
+  border-radius: 6px;
+  padding: 0.4rem;
+}
+
+.cards.top .right {
+  width: 18px;
+  height: 10px;
+}
+
+.cards .middle {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cards.middle.h1 {
+  font-size: 0.5rem;
+}
+
+.cards .middle.chip {
+  height: 0.5rem;
+  width: 1rem;
+}
+
+.cards .bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.cards .bottom .right {
+  display: flex;
+  gap: 2rem;
+}

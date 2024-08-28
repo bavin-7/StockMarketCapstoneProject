@@ -1,0 +1,13 @@
+Summary of Diagrams:
+Use Case Diagrams (Architectural Overview)
+Sequence Diagrams (Functional Specifications)
+Wireframes (System Interactions)
+Component Diagrams (Component Structure)
+Class Diagrams (Class Structure)
+Interface Diagrams (Interface Definitions)
+Package Diagrams (Package Structures)
+ER Diagrams (Database Schema)
+
+Component
+Class
+Microservice Architecture

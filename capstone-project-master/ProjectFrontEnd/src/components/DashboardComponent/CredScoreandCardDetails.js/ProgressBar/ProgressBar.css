@@ -1,0 +1,60 @@
+/* CreditScoreProgressBar.css */
+.credit-score-progress-bar {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+
+.min-mark,
+.max-mark {
+  width: 10px;
+  height: 10px;
+  background-color: #333; /* Color of the marks */
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  color: white; /* Text color of the marks */
+}
+
+.bar {
+  flex-grow: 1;
+  height: 20px;
+  background-color: aliceblue;
+  border-radius: 10px;
+  position: relative;
+}
+
+.progress {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: linear-gradient(to right, #fffc33eb, #63ff33, #33ff8f);
+  height: 100%;
+  border-radius: 10px;
+  transition: width 0.7s ease-in-out;
+}
+
+.labels {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.min-label,
+.max-label {
+  font-size: 14px;
+  color: #333; /* Label text color */
+}
+
+.credit-score-label {
+  font-weight: bold;
+  margin-bottom: 1rem;
+}

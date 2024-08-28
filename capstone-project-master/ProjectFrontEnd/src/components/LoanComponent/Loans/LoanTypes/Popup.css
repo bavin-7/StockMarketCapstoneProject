@@ -1,0 +1,33 @@
+/* Popup.css */
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #652cb3;
+  color: white;
+  padding: 1px;
+}
+
+.close-button {
+  cursor: pointer;
+}
+
+.close-icon {
+  font-size: 24px; /* Adjust the size as needed */
+  color: white;
+}
+
+.subheadings-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.subheading {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 10px;
+}
+
+/* Add more CSS rules as needed */

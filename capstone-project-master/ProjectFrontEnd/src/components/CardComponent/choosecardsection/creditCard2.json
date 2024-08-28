@@ -1,0 +1,98 @@
+{
+  "goodCards": [
+    {
+      "id": 501,
+      "cardname": "CSK",
+      "type": "Sports",
+      "bgColor": "#FFFF00",
+      "AnnualFee": "Nil",
+      "joiningFee": "Rs.6000",
+      "cardFeature": "Monthly Top spenders will receive a marquee player autographed memorabilia"
+    },
+    {
+      "id": 502,
+      "cardname": "Lifestyle Gold",
+      "type": "Lifestyle",
+      "bgColor": "#ff705d",
+      "AnnualFee": "Rs.6000",
+      "joiningFee": "Rs.7000",
+      "cardFeature": "Complimentary concierge service for booking reservations and event tickets."
+    },
+    {
+      "id": 503,
+      "cardname": "Entertainment Plus",
+      "type": "Entertainment",
+      "bgColor": "#5dff70",
+      "AnnualFee": "Rs.5500",
+      "joiningFee": "Rs.6500",
+      "cardFeature": "Priority access to concerts, shows, and exclusive movie screenings."
+    },
+    {
+      "id": 504,
+      "cardname": "ShopEasy",
+      "type": "Shopping",
+      "bgColor": "#705dff",
+      "AnnualFee": "Rs.4500",
+      "joiningFee": "Rs.5500",
+      "cardFeature": "Earn cashback on every purchase and access to exclusive shopping events."
+    },
+    {
+      "id": 505,
+      "cardname": "MakeMyTrip",
+      "type": "Travel",
+      "bgColor": "#EC5800",
+      "AnnualFee": "Rs.6500",
+      "joiningFee": "Rs.7500",
+      "cardFeature": "Discounts on travel bookings, airport lounge access, and travel insurance."
+    }
+  ],
+  "averageCards": [
+    {
+      "id": 506,
+      "cardname": "ActivePlus",
+      "type": "Sports",
+      "bgColor": "#CF9FFF",
+      "AnnualFee": "Rs.5500",
+      "joiningFee": "Rs.7500",
+      "cardFeature": "Exclusive access to sports events and athlete meet-and-greets."
+    },
+    {
+      "id": 507,
+      "cardname": "TravelMaster",
+      "type": "Travel",
+      "bgColor": "#70ff5d",
+      "AnnualFee": "Nil",
+      "joiningFee": "Rs.8000",
+      "cardFeature": "Complimentary flight upgrades and hotel room perks for frequent travelers."
+    },
+    {
+      "id": 508,
+      "cardname": "Luxelife",
+      "type": "Lifestyle",
+      "bgColor": "#DA70D6",
+      "AnnualFee": "Nil",
+      "joiningFee": "Rs.7000",
+      "cardFeature": "Access to luxury lifestyle experiences and VIP events."
+    },
+    {
+      "id": 509,
+      "cardname": "Cinephile",
+      "type": "Entertainment",
+      "bgColor": "#FF9933",
+      "AnnualFee": "Nil",
+      "joiningFee": "Rs.5000",
+      "cardFeature": "Buy one get one free movie tickets every month."
+    },
+    {
+      "id": 510,
+      "cardname": "Shopaholic",
+      "type": "Shopping",
+      "bgColor": "#FFB6C1",
+      "AnnualFee": "Rs.7000",
+      "joiningFee": "Rs.6000",
+      "cardFeature": "Personal shopper service and early access to sales and promotions."
+    }
+  ]
+}
+
+
